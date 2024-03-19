@@ -1,0 +1,68 @@
+.navigation{
+    float: left;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: block;
+    float: left;
+    padding: 0px 20px;
+    background-color: orange;
+}
+
+.nav2{
+    float: left;
+    height: 100%;
+}
+
+.nav2 a{
+    height: 100%;
+    display: block;
+    float: left;
+    padding: 0px 20px;
+    background-color: #CCC;
+}
+
+.nav2 a li{
+    vertical-align: text-top;
+    display: table-cell;
+    font-size: 20px;
+    color: black;
+}
+
+.nav2 a:hover{
+    background-color: red;
+    color: #101010;
+}
+ 
+.navigation a li{
+    vertical-align: text-top;
+    display: table-cell;
+    font-size: 20px;
+    color: black;
+}
+ 
+.navigation a:hover{
+    background-color: blue;
+    color: #101010;
+}
+
+.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center {
+  float:right;
+  margin:0px;
+  margin-left:5px;
+  max-width:70%;
+  max-height:70%;
+}
+
+.font {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
