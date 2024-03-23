@@ -42,7 +42,7 @@ font-family: "Unbounded", "Caprasimo", sans-serif;}
         grid-area: pics;
   	column-gap: .6%;
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(min(100%, 15em), 1fr));
+	background: green;
 }
 
 .pics img {
