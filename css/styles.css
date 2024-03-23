@@ -42,7 +42,6 @@ font-family: "Unbounded", "Caprasimo", sans-serif;}
         grid-area: pics;
   	column-gap: .6%;
 	display: grid;
-	background: green;
 }
 
 .pics img {
