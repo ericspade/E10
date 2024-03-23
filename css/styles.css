@@ -12,18 +12,14 @@
   background: linear-gradient(39deg, #ff8040 0%, #c0c0c0 68%);
 }
 
-@font-face {
-   font-family: myFirstFont;
-   src: url(sansation_light.woff);
-}
-
 .head { grid-area: head;
 text-align: center;
   font-family: "Inspiration", cursive;
   font-size: 30px;
 }
 
-.foot { grid-area: foot; }
+.foot { grid-area: foot;
+      font-family: "Unbounded", "Caprasimo", sans-serif;}
 
 .dropdown-content {
   display: none;
@@ -82,19 +78,16 @@ html, body , .container {
   margin: 0;
 }
 @media (max-width: 600px) {
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
-  }
   .head {
-    background: linear-gradient(39deg, #87ceeb 0%, #c0c0c0 68%);
     font-size: 8pt;
   }
   .body {
-    background: linear-gradient(39deg, #87ceeb 0%, #c0c0c0 68%);
     font-size: 5pt;
   }
-  .pics {
+  .foot {
+    font-size: 5pt;
+  }
+  img {
     max-width: 100%;
   }
 }
