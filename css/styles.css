@@ -87,7 +87,7 @@ html, body , .container {
   .foot {
     font-size: 5pt;
   }
-  img {
-    max-width: 100%;
+  .pics {
+    max-width: 60%;
   }
 }
