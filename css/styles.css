@@ -42,7 +42,6 @@ font-family: "Unbounded", "Caprasimo", sans-serif;}
         grid-area: pics;
   	column-gap: .6%;
 	display: grid;
-	grid-template-columns: fit-content(300px) fit-content(300px) 1fr;
 }
 
 .pics img {
@@ -89,6 +88,6 @@ html, body , .container {
     font-size: 5pt;
   }
   .pics {
-    max-width: 60%;
+    grid-template-columns: fit-content(768px) fit-content(768px) 1fr;
   }
 }
