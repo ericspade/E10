@@ -51,8 +51,8 @@
 
 .pics img {
   border-radius: 4px;
-  max-height: 100%;
-  width: 100%;
+  max-height: 90%;
+  width: 90%;
 }
 
 .pics img:nth-of-type(1) {
@@ -67,14 +67,14 @@
   align-self: end;
   grid-column: 5;
   grid-row: 1;
-  max-height: 100%;
+  max-height: 60%;
   width: 70%;
 }
 
 .pics img:nth-of-type(3) {
   grid-column: 7;
   grid-row: 1;
-  max-height: 95%;
+  max-height: 80%;
   width: 80%;
 }
 
