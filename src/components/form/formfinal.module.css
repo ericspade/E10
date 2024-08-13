@@ -1,0 +1,683 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 956px;
+  position: relative;
+  overflow: hidden;
+}
+.dearLadiesGentlemensWelcomeToAWorldOfBespokeTravelWhereYourDreamsBecomeOurMission {
+  color: #000000;
+    text-align: justified;
+    font-family: "-", sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    text-transform: uppercase;
+    position: absolute;
+    left: 5px;
+    top: 21px;
+    overflow: hidden;
+    width: 3947px;
+}
+.dearLadiesGentlemensWelcomeToAWorldOfBespokeTravelWhereYourDreamsBecomeOurMissionSpan {
+  color: #000000;
+  font-family: "PlayfairI", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: uppercase;
+}
+.dearLadiesGentlemensWelcomeToAWorldOfBespokeTravelWhereYourDreamsBecomeOurMissionSpan2 {
+  color: #000000;
+  font-family: "ManropeSB", sans-serif;
+  font-size: 64px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.form {
+  position: absolute;
+  inset: 0;
+}
+.nameSurname {
+  width: 860px;
+  height: 49px;
+  position: static;
+}
+.name {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 292px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 980px;
+  left: 80px;
+  top: 320px;
+}
+.companyName {
+  width: 860px;
+  height: 48px;
+  position: static;
+}
+.companyName2 {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 1000px;
+  top: 293px;
+  width: 138.59px;
+  height: 25.08px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder2 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 60px;
+  left: 1000px;
+  top: 320px;
+}
+.phoneNumber {
+  width: 860px;
+  height: 46px;
+  position: static;
+}
+.phoneNumber2 {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 375px;
+  width: 130.03px;
+  height: 25.08px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder3 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 980px;
+  left: 80px;
+  top: 400px;
+}
+.emailAddress {
+  width: 860px;
+  height: 47px;
+  position: static;
+}
+.eMail {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 1000px;
+  top: 374px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder4 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 60px;
+  left: 1000px;
+  top: 400px;
+}
+.chooseService {
+  width: 860px;
+  height: 45px;
+  position: static;
+}
+.chooseService2 {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 456px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 32px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 940px;
+  top: 459px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder5 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 980px;
+  left: 80px;
+  top: 480px;
+}
+.chooseCountry {
+  width: 860px;
+  height: 45px;
+  position: static;
+}
+.chooseCountry2 {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 1000px;
+  top: 456px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 32px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 1860px;
+  top: 459px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder6 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 60px;
+  left: 1000px;
+  top: 480px;
+}
+.attachItem {
+  width: 1779px;
+  height: 46px;
+  position: static;
+}
+.background {
+  width: 130px;
+  height: 25px;
+  position: absolute;
+  left: 80px;
+  top: 535px;
+}
+.attachItem2 {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 24.7px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: -0.85px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder7 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 61px;
+  left: 80px;
+  top: 560px;
+}
+.comment {
+  width: 1779.5px;
+  height: 148px;
+  position: static;
+}
+.taskDescription {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 18.8515625px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 614px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontalBorder8 {
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+  height: 21px;
+  position: absolute;
+  right: 60.5px;
+  left: 80px;
+  top: 741px;
+}
+.policyPrivacy {
+  width: 289.7px;
+  height: 25.12px;
+  position: static;
+}
+.imageBackgroundBorder {
+  background: #000000;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  left: 80px;
+  top: 798.24px;
+}
+.customCheckboxCheckmark589D534424SvgFill {
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.customCheckboxCheckmark589D534424Svg {
+  width: 10px;
+  height: 8.46px;
+  position: absolute;
+  left: calc(50% - 5px);
+  top: calc(50% - 4.23px);
+  overflow: visible;
+}
+.iAgreeWithThe {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  position: absolute;
+  left: 110px;
+  top: 798.24px;
+  width: 139.67px;
+  height: 25.08px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.privacyPolicy {
+  color: #000000;
+  text-align: left;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 19px;
+  line-height: 25.08px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 249.47px;
+  top: 798.2px;
+  width: 120.23px;
+  height: 25.08px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.buttonSent {
+  width: 260px;
+  height: 40px;
+  position: static;
+}
+.letSJourney {
+  color: #000000;
+  text-align: center;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 35px;
+  line-height: 39.9px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 880px);
+  top: 868px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.airplane {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 310px;
+  top: 873px;
+  object-fit: cover;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.logo {
+  width: 24px;
+  height: 40px;
+  position: absolute;
+  left: 80px;
+  top: 20px;
+  overflow: visible;
+}
+.headerButtonFindAHotelForATrip {
+  width: 233px;
+  height: 40px;
+  position: static;
+}
+.findAHotelForATrip {
+  color: #000000;
+  text-align: right;
+  font-family: "ManropeReg", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  position: absolute;
+  left: 352px;
+  top: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.buttonAirplane {
+  width: 52px;
+  height: 40px;
+  position: static;
+}
+.rectangle15 {
+  background: #d9d9d9;
+  border-radius: 60px;
+  width: 52px;
+  height: 40px;
+  position: absolute;
+  left: 290px;
+  top: 20px;
+}
+.airplane2 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 304px;
+  top: 28px;
+  object-fit: cover;
+}
+.headerButtonDestinations {
+  width: 161px;
+  height: 40px;
+  position: static;
+}
+.rectangle152 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 161px;
+  height: 40px;
+  position: absolute;
+  left: 710px;
+  top: 20px;
+}
+.div4 {
+  color: #000000;
+  text-align: right;
+  font-family: "ManropeMed", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 833.13px;
+  top: 23px;
+  width: 17.89px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.destinations {
+  color: #000000;
+  text-align: right;
+  font-family: "ManropeMed", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  position: absolute;
+  left: 730px;
+  top: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.headerButtonRentals {
+  width: 139px;
+  height: 40px;
+  position: static;
+}
+.rectangle153 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 139px;
+  height: 40px;
+  position: absolute;
+  left: calc(50% - 60px);
+  top: 20px;
+}
+.div5 {
+  color: #000000;
+  text-align: right;
+  font-family: "ManropeMed", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 991.08px;
+  top: 23px;
+  width: 20.75px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.rentals {
+  color: #000000;
+  text-align: right;
+  font-family: "ManropeMed", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  position: absolute;
+  left: 927.8px;
+  top: 28px;
+  width: 63.28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.headerButtonTypeOfTrip {
+  width: 160px;
+  height: 40px;
+  position: static;
+}
+.rectangle154 {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 160px;
+  height: 40px;
+  position: absolute;
+  left: 1070px;
+  top: 20px;
+}
+.div6 {
+  color: #000000;
+  text-align: right;
+  font-family: "ManropeMed", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 1189.19px;
+  top: 23px;
+  width: 20.25px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.typeOfTrips {
+  color: #000000;
+  text-align: right;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  position: absolute;
+  left: 1090px;
+  top: 28px;
+  width: 99px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.typeOfTripsSpan {
+  color: #000000;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+}
+.typeOfTripsSpan2 {
+  color: #000000;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+}
+.meetGreetServices {
+  color: #000000;
+  text-align: center;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  position: absolute;
+  left: 1400px;
+  top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.headerButtonMessage {
+  width: 52px;
+  height: 40px;
+  position: static;
+}
+.rectangle155 {
+  background: #d9d9d9;
+  border-radius: 60px;
+  width: 52px;
+  height: 40px;
+  position: absolute;
+  left: 1746px;
+  top: 20px;
+}
+.email {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: calc(50% - -800px);
+  top: calc(50% - 512px);
+  object-fit: cover;
+}
+.headerButtonMenu {
+  width: 52px;
+  height: 40px;
+  position: static;
+}
+.buttonMenu {
+  width: 52px;
+  height: 40px;
+  position: static;
+}
+.rectangle156 {
+  background: #d9d9d9;
+  border-radius: 60px;
+  width: 52px;
+  height: 40px;
+  position: absolute;
+  left: 1808px;
+  top: 20px;
+}
+.menu11 {
+  width: 20px;
+  height: 18px;
+  position: absolute;
+  left: 1824px;
+  top: 31px;
+  object-fit: cover;
+}
+.headerButtonPhone {
+  width: 52px;
+  height: 40px;
+  position: static;
+}
+.rectangle157 {
+  background: #d9d9d9;
+  border-radius: 60px;
+  width: 52px;
+  height: 40px;
+  position: absolute;
+  left: 1684px;
+  top: 20px;
+}
+.zero02PhoneCall {
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: calc(50% - -739px);
+  top: calc(50% - 511px);
+  object-fit: cover;
+}

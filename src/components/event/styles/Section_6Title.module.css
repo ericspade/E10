@@ -1,0 +1,63 @@
+@import "https://fonts.googleapis.com/css?family=Manrope:0,600&display=swap";
+/* @import "https://fonts.googleapis.com/css?family=Playfair+Display:1,400&display=swap"; */
+@import "https://fonts.googleapis.com/css?family=Manrope:0,600&display=swap";
+
+.Title_330_3343 {
+  flex-shrink: 0;
+  width: 674px;
+  height: 87px;
+  position: relative;
+  top: 874px;
+  left: -10px;
+}
+
+.Title_331_3343 {
+  flex-shrink: 0;
+  width: 2674px;
+  height: 87px;
+  position: relative;
+  top: -165px;
+  left: 18px;
+}
+
+.Title_332_3343 {
+  flex-shrink: 0;
+  width: 3984px;
+  height: 87px;
+  position: relative;
+  top: 688px;
+  left: 18px;
+}
+
+.UniqueExperienses_330_3344 {
+  color: #000;
+  text-align: justify;
+  text-transform: uppercase;
+  font-family: Playfair Display;
+  font-size: 59px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.UniqueExperienses_331_3344 {
+  color: #000;
+  text-align: justify;
+  text-transform: uppercase;
+  font-family: Playfair Display;
+  font-size: 59px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.UniqueExperienses_332_3344 {
+  color: #000;
+  text-align: justify;
+  text-transform: uppercase;
+  font-family: Playfair Display;
+  font-size: 59px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+}

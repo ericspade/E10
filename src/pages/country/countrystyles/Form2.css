@@ -1,0 +1,185 @@
+.form,
+.form * {
+  box-sizing: border-box;
+}
+.form {
+  height: 568px;
+  position: relative;
+  top: 260px;
+    left: 500px;
+}
+.form .name-section {
+  width: 421px;
+  height: 80px;
+  position: static;
+}
+.form .rectangle-96 {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 421px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.form .name {
+  color: #000000;
+    text-align: left;
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: calc(50% - 41.5px);
+    top: 26px;
+    width: 68.41px;
+}
+.form .surname-section {
+  width: 420px;
+  height: 80px;
+  position: static;
+}
+.form .rectangle-97 {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 420px;
+  height: 80px;
+  position: absolute;
+  left: 461px;
+  top: 0px;
+}
+.form .surname {
+  color: #000000;
+    text-align: left;
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: calc(50% - -404.5px);
+    top: -52px;
+    width: 105px;
+}
+.form .phone-number-section {
+  width: 421px;
+  height: 80px;
+  position: static;
+}
+.form .rectangle-98 {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 421px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+}
+.form .phone-number {
+  color: #000000;
+    text-align: left;
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: calc(50% - 79.5px);
+    top: -33px;
+    width: 170.51px;
+}
+.form .email-address-section {
+  width: 420px;
+  height: 80px;
+  position: static;
+}
+.form .rectangle-99 {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 420px;
+  height: 80px;
+  position: absolute;
+  left: 461px;
+  top: 100px;
+}
+.form .e-mail-adress {
+  color: #000000;
+    text-align: left;
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: calc(50% - -373.5px);
+    top: -113px;
+    width: 161.45px;
+}
+.form .leave-a-comment-section {
+  width: 881px;
+  height: 240px;
+  position: static;
+}
+.form .rectangle-982 {
+  background: #ffffff;
+  border-radius: 34px;
+  width: 881px;
+  height: 240px;
+  position: absolute;
+  left: 0px;
+  top: 219px;
+}
+.form .leave-a-comment {
+  color: #000000;
+    text-align: left;
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: calc(50% - 100.5px);
+    top: -65px;
+}
+.form .button {
+  width: 881px;
+  height: 80px;
+  position: static;
+}
+.form .button-section {
+  width: 786px;
+  height: 80px;
+  position: static;
+}
+.form .rectangle-94 {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 786px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 488px;
+}
+.form .let-s-travel {
+  color: #000000;
+    text-align: left;
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: calc(50% - 26.5px);
+    top: -39px;
+}
+.form .button-logo-section {
+  width: 80px;
+  height: 80px;
+  position: static;
+}
+.form .rectangle-95 {
+  background: #ffffff;
+  border-radius: 60px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 801px;
+  top: 488px;
+}
+.form ._004-airplane {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 820px;
+  top: 507px;
+  object-fit: cover;
+}

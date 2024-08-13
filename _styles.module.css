@@ -1,0 +1,39 @@
+.mainStyles,
+.mainStyles * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  flex-shrink: 0;
+  text-decoration: none;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  left: 56px;
+}
+
+
+.mainStyles,
+.mainStyles :not(span, a, ul, ol, li, p) {}
+
+.mainStyles ul,
+.mainStyles ol {
+  text-indent: 0;
+  padding-inline-start: 1.5em;
+}
+
+.mainStyles p:empty::before {
+  content: '';
+  display: inline-block;
+}
+
+.mainStyles img {
+  object-fit: contain;
+}
+
+.mainStyles svg {
+  overflow: visible;
+  position: absolute;
+  left: -7px;
+  top: -5px;
+}

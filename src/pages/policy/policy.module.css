@@ -1,0 +1,20 @@
+@import url(../../common.css);
+
+.policydescription {
+	display: flex;
+    max-width: 1670px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 30px;
+    gap: 100px;
+    flex-direction: column;
+    max-height: 1438px;
+}
+
+.policydescription h2 {
+	flex: 1 1 50%;
+}
+
+.policydescription p {
+	flex: 1 1 50%;
+}

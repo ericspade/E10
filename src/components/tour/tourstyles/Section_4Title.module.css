@@ -1,0 +1,37 @@
+@import "https://fonts.googleapis.com/css?family=Manrope:0,600&display=swap";
+.Title_330_3270 {
+  flex-shrink: 0;
+    width: 2886px;
+    height: 87px;
+    position: relative;
+    top: 1100px;
+    left: 0px;
+}
+.Title_331_3270 {
+  flex-shrink: 0;
+    width: 2886px;
+    height: 87px;
+    position: relative;
+    top: 1045px;
+    left: 55px;
+}
+.ountrySVibrantEvents_330_3271 {
+  color: #000;
+    text-align: justify;
+    text-transform: uppercase;
+    font-family: Manrope;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.ountrySVibrantEvents_331_3271 {
+  color: #000;
+    text-align: justify;
+    text-transform: uppercase;
+    font-family: Manrope;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

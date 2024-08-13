@@ -1,0 +1,7 @@
+// Пример передачи пропсов.
+
+// В пропсы компонент принимает строку. Фразы, выделенные курсивом, оборачиваются в «/».
+
+// Пример:
+
+<Runline text={"/Dear Ladies &/ Gentlemens we will turn your journey into a true work of art"}/>

@@ -1,0 +1,22 @@
+// Пример передачи пропсов.
+
+// В пропсы компонент принимает объект, внутри него шесть массивов — шесть точек на круге.
+
+// Элементы массива:
+// 1. Основное имя локации, видно всегда (например, город)
+// 2. Где находится (страна), видно только когда активен слайд
+// 3. Ссылка на очертания материка/города
+// 4. Ссылка на фоновое изображение слайда
+
+// Пример:
+
+<Circle places={
+{
+1: ["Moscow", "Russia", "./images/circle/points/kyoto.svg", "./images/circle/backgrounds/moscow.jpg"],
+2: ["London", "England", "./images/circle/points/las-vegas.svg", "./images/circle/backgrounds/london.jpeg"],
+3: ["Stambul", "Turkey", "./images/circle/points/maldives.svg", "./images/circle/backgrounds/stambul.jpg"],
+4: ["Kyoto", "Japan", "./images/circle/points/kyoto.svg", "./images/circle/backgrounds/kyoto.jpg"],
+5: ["Las Vegas", "USA", "./images/circle/points/las-vegas.svg", "./images/circle/backgrounds/las-vegas.jpg"],
+6: ["Rio de Janeiro", "Brazil", "./images/circle/points/maldives.svg", "./images/circle/backgrounds/rio.jpg"],
+}
+}/>

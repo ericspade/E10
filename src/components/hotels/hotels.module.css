@@ -1,0 +1,14 @@
+.hotels {
+	margin-bottom: 40px;
+	max-width: 1900px;
+	overflow: hidden;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
+.title {
+	width: 1780px;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}

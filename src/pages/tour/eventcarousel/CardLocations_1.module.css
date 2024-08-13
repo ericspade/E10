@@ -1,0 +1,56 @@
+.CardContinent_1_10_1175 {
+  flex-shrink: 0;
+  width: 1200px;
+  height: 898px;
+}
+.CardBackground_10_1176 {
+  background: #777;
+  border-radius: 44px;
+  flex-shrink: 0;
+  width: 1200px;
+  height: 898px;
+}
+.Title_10_1177 {
+    color: #fff;
+    flex-shrink: 0;
+    width: 138px;
+    height: 88.78px;
+    top: -369px;
+    font-family: Manrope;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: inline-block;
+    position: relative;
+}
+.Description_10_1178 {
+  color: #fff;
+    flex-shrink: 0;
+    width: 223px;
+    height: 56.125px;
+    font-family: Manrope;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: inline-block;
+    position: relative;
+    top: -301px;
+    left: -78px;
+}
+.Button_10_1179 {
+  flex-shrink: 0;
+    width: 1120px;
+    height: 80px;
+    position: relative;
+    top: -221px;
+}
+.Tags_10_1182 {
+  flex-shrink: 0;
+    width: 320px;
+    height: 80px;
+    position: relative;
+    top: -1021px;
+    left: 851px;
+}

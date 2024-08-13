@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Manrope';
+  src: local('Manrope'), url("./fonts/Manrope-Bold.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'ManropeLight';
+  src: local('Manrope Light'), url("./fonts/Manrope-Light.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'ManropeMed';
+  src: local('ManropeMed'), url("./fonts/Manrope-Medium.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'ManropeReg';
+  src: local('ManropeReg'), url("./fonts/Manrope-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'ManropeSB';
+  src: local('ManropeSB'), url("./fonts/Manrope-SemiBold.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'PlayfairI';
+  src: local('PlayfairI'), url("./fonts/PlayfairDisplaySC-Italic.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'PlayfairILow';
+  src: local('PlayfairDisplay-Italic'), url("./fonts/PlayfairDisplay-Italic.ttf") format('truetype');
+}
+
+.root {
+  height: 100%;
+  font-family: sans-serif;
+  background-color: __backgroundColor__;
+  flex-basis: 100%;
+  /*overflow-y: auto;
+  /* __center__ */
+}

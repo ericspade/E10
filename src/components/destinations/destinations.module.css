@@ -1,0 +1,96 @@
+.destinations {
+	width: 1880px;
+	margin: auto;
+	margin-bottom: 60px;
+}
+
+.container {
+	width: 1780px;
+	margin: auto;
+}
+
+.destination {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	align-items: center;
+	border-bottom: 1px solid #e3e3e3;
+	padding: 20px 0;
+}
+
+.name {
+	display: flex;
+	align-items: center;
+	gap: 40px;
+}
+
+.title {
+	font-family: "ManropeSB";
+	font-size: 36px;
+}
+
+.image {
+	width: 100px;
+	height: 140px;
+	border-radius: 40px;
+	overflow: hidden;
+}
+
+.image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.info {
+	display: flex;
+	justify-self: center;
+}
+
+.tours,
+.cities,
+.hotels {
+	display: flex;
+	flex-direction: column;
+	gap: 7px;
+}
+
+.subtitle {
+	font-family: "ManropeReg";
+	font-size: 14px;
+	color: #616161;
+}
+
+.quantity {
+	font-family: "ManropeMed";
+	font-size: 28px;
+}
+
+.tours {
+	padding-right: 32px;
+}
+
+.cities {
+	padding: 0 32px;
+	border-left: 1px solid #e3e3e3;
+	border-right: 1px solid #e3e3e3;
+}
+
+.hotels {
+	padding-left: 32px;
+}
+
+.link {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 75px;
+	height: 75px;
+	justify-self: end;
+	border: 1px solid #cfcfcf;
+	border-radius: 20px;
+}
+
+.link svg {
+	width: 48px;
+	height: 34px;
+}

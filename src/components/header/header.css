@@ -1,0 +1,291 @@
+.header {
+  position: relative;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+}
+
+.header_transparent {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  color: white;
+}
+
+.header_absolute {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.header__button {
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 30px;
+  width: 52px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+.header__button img {
+  width: 22px;
+  height: 22px;
+}
+
+.header__button_transparent {
+  background-color: rgba(217, 217, 217, 0.3);
+  backdrop-filter: blur(5px) saturate(110%);
+  -webkit-backdrop-filter: blur(5px) saturate(110%);
+}
+
+.header__container .header__button_transparent svg,
+.header__container .header__button_transparent img,
+.header__container .header__button_transparent div:not(.header__burger_pressed div) {
+  filter: invert();
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1780px;
+  width: 100%;
+  margin: auto;
+}
+
+.header__button:hover {
+filter: invert(1);
+}
+
+.header-navigation__find-hotel:hover {
+filter: invert(1);
+}
+
+.header__logo img {
+  position: relative;
+  z-index: 3;
+}
+
+.header__logo img {
+  width: 24px;
+}
+
+.header__logo_invert img {
+  filter: invert(1);
+  mix-blend-mode: difference;
+}
+
+.header__navigation {
+  display: flex;
+  align-items: center;
+  gap: 210px;
+}
+
+.header-navigation__find-hotel {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 62px;
+  font-family: 'ManropeSB';
+}
+
+.find-hotel__button {
+  position: absolute;
+  left: 0;
+  /* z-index: -1; */
+  justify-content: end;
+  transition: all 0.5s;
+  padding-right: 12px;
+}
+
+.find-hotel__normal {
+  white-space: nowrap;
+  z-index: 1;
+}
+
+.find-hotel__cursive {
+  font-family: "PlayfairI";
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  font-size: 13px;
+  overflow: hidden;
+  width: 0%;
+
+  background-color: rgba(217, 217, 217, 1);
+  transition: width 0.3s 0.08s;
+}
+
+.header-navigation__find-hotel:hover {
+
+  .find-hotel__button {
+    position: absolute;
+    left: 0;
+    width: 300px;
+    /* z-index: -1; */
+    padding-right: 30px;
+  }
+
+  .find-hotel__cursive {
+    opacity: 1;
+
+    width: 100%;
+  }
+}
+
+
+.header-navigation__main-links {
+  display: flex;
+  gap: 30px;
+}
+
+.header-navigation__link {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  min-width: 40px;
+  height: 40px;
+  padding: 0 20px;
+  border-radius: 30px;
+  background-color: rgba(217, 217, 217, 1);
+  transition: all 0.3s;
+  font-family: 'ManropeSB';
+
+  span {
+    margin-left: 5px;
+    transition: transform 0.5s 0.2s;
+  }
+}
+
+.header-navigation__meet {
+    font-family: 'ManropeSB';
+}
+
+.header-navigation__link:hover {
+  background-color: black;
+  color: white;
+  scale: 1.0;
+
+  span {
+    transform: rotate(90deg);
+  }
+}
+
+.header__navigation_transparent .header-navigation__link {
+  background-color: rgba(217, 217, 217, 0.3);
+  backdrop-filter: blur(5px) saturate(110%);
+  -webkit-backdrop-filter: blur(5px) saturate(110%);
+}
+
+.header__navigation_transparent .header-menu-navigation__link {
+  color: black;
+}
+
+.header__buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.header__burger {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+  z-index: 3;
+}
+
+.burger__slice {
+  width: 20px;
+  height: 3px;
+  background-color: black;
+  border-radius: 3px;
+  transition: all 0.2s;
+}
+
+.header__burger_pressed {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  z-index: 3;
+
+  .burger__top {
+    transform: rotate(45deg) translate(5px, 5px);
+    width: 24px;
+  }
+
+  .burger__middle {
+    opacity: 0;
+  }
+
+  .burger__bottom {
+    width: 24px;
+    transform: rotate(-45deg) translate(5px, -5px);
+  }
+}
+
+.header__menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100svh;
+  /* max-height: 1080px; */
+  overflow-y: hidden;
+  z-index: 3;
+  background-color: white;
+  transition: clip-path 0.5s;
+  padding-bottom: 80px;
+
+}
+
+.header-menu__container {
+  max-width: 1880px;
+  width: 100%;
+  margin: auto;
+}
+
+.header-menu__container .header__container {
+  padding-top: 20px;
+}
+
+.header-menu__header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 1655px;
+  height: 80px;
+  margin: auto;
+}
+
+.header-menu-navigation__list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 128px;
+}
+
+.header-menu-navigation__link span {
+  font-family: "PlayfairILow";
+  text-transform: none;
+}
+
+.header__menu {
+  clip-path: circle(0% at 95% 4%);
+}
+
+.header__menu_showed {
+  clip-path: circle(150% at 95% 4%);
+}

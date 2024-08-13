@@ -1,0 +1,211 @@
+.footer,
+.footer * {
+  box-sizing: border-box;
+}
+.footer {
+  position: relative;
+}
+.footer .background {
+  background: #4b4b4b;
+  border-radius: 60px 60px 0px 0px;
+  width: 1880px;
+  height: 978px;
+  position: absolute;
+  left: calc(50% - 1344.5px);
+  top: 109px;
+}
+.footer
+  .dear-ladies-gentlemens-we-will-turn-your-journey-into-a-true-work-of-art {
+  color: #000000;
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 20px;
+  top: 0px;
+  width: 2669px;
+  height: 77.17px;
+}
+.dear-ladies-gentlemens-we-will-turn-your-journey-into-a-true-work-of-art-span {
+  color: #000000;
+  font-family: "PlayfairDisplaySc-Italic", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: uppercase;
+}
+.dear-ladies-gentlemens-we-will-turn-your-journey-into-a-true-work-of-art-span2 {
+  color: #000000;
+  font-family: "Manrope-SemiBold", sans-serif;
+  font-size: 64px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.footer .button {
+  background: #d9d9d9;
+  border-radius: 120px;
+  width: 395px;
+  height: 514px;
+  position: absolute;
+  left: calc(50% - 602.5px);
+  top: calc(50% - 202.5px);
+}
+.footer .footer-2 {
+  width: 1804.07px;
+  height: 36px;
+  position: static;
+}
+.footer ._2024-first-class-solutions {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 1301.5px);
+  top: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer .public-offer {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 207.5px);
+  top: 999px;
+  width: 142.03px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer .privacy-cookie-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 714.5px);
+  top: 999px;
+  width: 278.96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer .developed-by-digital-trinity {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -171.5px);
+  top: 999px;
+  width: 331.07px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer .info {
+  width: 863px;
+  height: 545px;
+  position: static;
+}
+.footer
+  .first-class-solutions-offers-premium-bookings-for-hotels-villas-private-jets-and-yachts-through-trusted-top-partners {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 43px;
+  top: 127px;
+  width: 863px;
+  height: 137px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer
+  .individual-taxpayer-number-9707025574-tax-registration-reason-code-770701001 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 43px;
+  top: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer .social {
+  width: 220px;
+  height: 513px;
+  position: static;
+}
+.footer .instagram {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -171.5px);
+  top: calc(50% - -36.5px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer .whats-app {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -171.5px);
+  top: calc(50% - -92.5px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer .telegram {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -171.5px);
+  top: calc(50% - 19.5px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer ._7-903-384-48-42 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -171.5px);
+  top: calc(50% - 384.5px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

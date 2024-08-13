@@ -1,0 +1,95 @@
+@import "https://fonts.googleapis.com/css?family=Manrope:0,500&display=swap";
+/* @import "https://fonts.googleapis.com/css?family=Playfair+Display:1,400&display=swap"; */
+@import "https://fonts.googleapis.com/css?family=Manrope:0,500&display=swap";
+
+.CardHotel_1_330_3306 {
+  flex-shrink: 0;
+  width: 900px;
+  height: 460px;
+  margin: -672px;
+  position: relative;
+  left: 654px;
+}
+
+.Background_330_3307 {
+  box-sizing: border-box;
+  border: 1px solid #000;
+  border-radius: 44px;
+  flex-shrink: 0;
+  width: 900px;
+  height: 460px;
+}
+
+.PhotoOfHotel_330_3308 {
+  background: #4c4c4c;
+  border-radius: 44px;
+  flex-shrink: 0;
+  width: 480px;
+  height: 420px;
+  position: relative;
+  top: -440px;
+  left: 22px;
+}
+
+.Tag_330_3309 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 60px;
+  position: relative;
+  left: 388px;
+  top: -833px;
+  z-index: 1;
+}
+
+.HotelName_330_3312 {
+  color: #000;
+  text-align: justify;
+  text-transform: uppercase;
+  flex-shrink: 0;
+  width: 130.814px;
+  height: 121.9px;
+  font-family: 'PlayfairI';
+  font-size: 39px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-block;
+  position: relative;
+  left: 536px;
+  top: -919px;
+}
+
+.Raiting_330_3313 {
+  flex-shrink: 0;
+  width: 137.093px;
+  height: 26.45px;
+}
+
+.Description_330_3319 {
+  color: #000;
+  text-align: justify;
+  text-transform: uppercase;
+  flex-shrink: 0;
+  width: 160.116px;
+  height: 37.95px;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  display: inline-block;
+  position: relative;
+  top: -924px;
+  left: 539px;
+  z-index: 1;
+}
+
+.Button_330_3320 {
+  flex-shrink: 0;
+  width: 160px;
+  height: 60px;
+  position: relative;
+  z-index: 1;
+  top: -743px;
+  left: 725px;
+}

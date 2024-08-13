@@ -1,0 +1,28 @@
+@import "https://fonts.googleapis.com/css?family=Manrope:0,500&display=swap";
+.ButtonSeeMore_188_2960 {
+  flex-shrink: 0;
+    width: 220px;
+    height: 60px;
+    position: relative;
+    top: -178px;
+    left: 137px;
+}
+.Rectangle_174_188_2961 {
+  background: #000;
+  border-radius: 60px;
+  flex-shrink: 0;
+  width: 220px;
+  height: 60px;
+}
+.SeeMore_188_2962 {
+  color: #fff;
+    text-transform: capitalize;
+    font-family: Manrope;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: inline-block;
+    position: relative;
+    top: -46px;
+}

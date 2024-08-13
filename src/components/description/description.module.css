@@ -1,0 +1,18 @@
+@import url(../../common.css);
+
+.description {
+	display: flex;
+	max-width: 1616px;
+	width: 100%;
+	margin: auto;
+	margin-bottom: 30px;
+	gap: 100px;
+}
+
+.description h2 {
+	flex: 1 1 55%;
+}
+
+.description p {
+	flex: 1 1 50%;
+}
